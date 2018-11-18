@@ -12,7 +12,7 @@ from django.http import HttpRequest
 from django.utils.html import escape
 from django.core.exceptions import ValidationError
 from django.template.loader import render_to_string
-from .models import Item, List
+from .models import Whatever
 
 models
 from django.db import models
